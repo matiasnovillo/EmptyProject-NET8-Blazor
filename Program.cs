@@ -1,7 +1,6 @@
 using EmptyProject.Components.Shared;
 using EmptyProject.Components;
 using EmptyProject.DatabaseContexts;
-using EmptyProject.Middlewares;
 using EmptyProject.Areas.CMS.UserBack.Repositories;
 using EmptyProject.Areas.CMS.UserBack.Services;
 using EmptyProject.Areas.CMS.RoleBack.Repositories;
