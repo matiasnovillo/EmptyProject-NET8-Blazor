@@ -14,3 +14,5 @@ By default, this template comes loaded with several components:
 - An endpoint to fill in the essential tables
 
 Now, if you want to go a little further, I invite you to use FiyiStack, the low-code generator, which uses this template as a base to reduce development and delivery times.
+
+Visit my web page where I talk about FiyiStack, the low-code generator: www.fiyistack.com
